@@ -45,6 +45,8 @@ Ios Project(Covid 19 Public Mask)
 
 - Ios Project Running Video    
 <a href="https://drive.google.com/open?id=1mJeopBKvb8hjLbhPa_UnmwcdCFyGvIwh">Watch Running Video</a>
+<iframe width="640" height="360" src="https://drive.google.com/open?id=1mJeopBKvb8hjLbhPa_UnmwcdCFyGvIwh" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+
 
 ### Final Project(Web + Android + Ios)
 파이널 프로젝트

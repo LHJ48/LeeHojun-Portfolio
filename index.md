@@ -39,11 +39,9 @@ Ios Project(Covid 19 Public Mask)
 
 - Ios Project Running Process     
 <img src="./image/IosProject/IosProject(LoginPage).png" width="50%" height="50%"><img src="./image/IosProject/IosProject(UserUpdatePage).png" width="50%" height="50%">
-<center><img src="./image/IosProject/IosProject(MainPage).png" width="700" height="500"></center>
-<center><img src="./image/IosProject/IosProject(SearchAddressPage).png" width="700" height="500"></center>
-<center><img src="./image/IosProject/IosProject(SearchCurrentLocationPage).png" width="500" height="300"></center>
-<center><img src="./image/IosProject/IosProject(SearchRouteAppleMapPage).png" width="500" height="300"></center>
-<center><img src="./image/IosProject/IosProject(WatchYoutubePage).png" width="300" height="500"></center> 
+<img src="./image/IosProject/IosProject(MainPage).png" width="50%" height="50%"><img src="./image/IosProject/IosProject(SearchAddressPage).png" width="50%" height="50%">
+<img src="./image/IosProject/IosProject(SearchCurrentLocationPage).png" width="50%" height="50%"><img src="./image/IosProject/IosProject(SearchRouteAppleMapPage).png" width="50%" height="50%">
+<img src="./image/IosProject/IosProject(WatchYoutubePage).png" width="50%" height="50%">
 
 - Ios Project Running Video    
 <a href="https://drive.google.com/open?id=1mJeopBKvb8hjLbhPa_UnmwcdCFyGvIwh">Watch Running Video</a>

@@ -38,7 +38,7 @@ Ios Project(Covid 19 Public Mask)
 ![Image](/image/iosPorject Development environment.png)
 
 - Ios Project Running Process     
-<center><img src="./image/IosProject/IosProject(LoginPage).png" width="50%" height="50%"><img src="./image/IosProject/IosProject(UserUpdatePage).png" width="50%" height="50%"></center>
+<img src="./image/IosProject/IosProject(LoginPage).png" width="50%" height="50%"><img src="./image/IosProject/IosProject(UserUpdatePage).png" width="50%" height="50%">
 <center><img src="./image/IosProject/IosProject(MainPage).png" width="700" height="500"></center>
 <center><img src="./image/IosProject/IosProject(SearchAddressPage).png" width="700" height="500"></center>
 <center><img src="./image/IosProject/IosProject(SearchCurrentLocationPage).png" width="500" height="300"></center>

@@ -23,7 +23,7 @@ Ios Project(Covid 19 Public Mask)
 저희 앱은 마스크 판매처 정보와 물량 그리고 현재 사용자 위치에서 판매처까지의     
 길을 찾아줘 사용자가 편리하게 공적마스크 정보를 얻을 수 있게 하였습니다.   
 
-- Ios Project Development Environment
+- Ios Project Development Environment    
 ![Image](/image/iosPorject Development environment.png)
 
 

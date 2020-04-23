@@ -1,6 +1,6 @@
 ## LeeHoJun`s MyPage
 
-이호준의 MyPage입니다.
+이호준의 MyPage입니다.    
 개인프로젝트 목록을 확인할 수 있습니다.
 
 ### Web Project(Spring Mvc Project)

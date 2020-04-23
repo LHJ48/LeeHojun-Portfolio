@@ -3,16 +3,16 @@
 이호준의 MyPage입니다.
 개인프로젝트 목록을 확인할 수 있습니다.
 
-## Web Project(Spring Mvc Project)
+### Web Project(Spring Mvc Project)
 기출문제은행 사이트
 
-## Android Project(Android Native Application)
+### Android Project(Android Native Application)
 안드로이드 프로젝트
 
-## Ios Project(Ios Native Application)
+### Ios Project(Ios Native Application)
 Ios 프로젝트
 
-## Final Project(Web + Android + Ios)
+### Final Project(Web + Android + Ios)
 파이널 프로젝트
 
 ### Markdown
@@ -38,11 +38,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LeeHoJun4880/leehojun/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

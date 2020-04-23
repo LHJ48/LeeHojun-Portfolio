@@ -10,15 +10,18 @@ LeeHojun`s Development Project Page입니다.
 Web Project(ExamBank)
 
 - The reason why I created this project    
-사용자들이 각종 시험들의 회차별 기출문제를 구입하여 직접 풀어보고 채점기능을 활용할 수 있고    
-오답 및 해설 확인, QnA게시판을 활용한 질문/답변의 활용을 할 수 있다.    
-관리자는 회원정보 관리 및 게시판 관리, 과목 및 문제 추가 수정등 을 할 수 있다.
+각종 기출문제 시험에 관하여 실전과 같은 문제를 풀어볼 수 있도록 하고 해설도 볼 수 있도록 하는 사이트가 필요해보였습니다.
+사용자들이 각종 시험들의 회차별 기출문제를 구입하여 직접 풀어보고 채점기능을 활용할 수 있고 오답 및 해설 확인, QnA게시판을 활용한 질문/답변의 활용을 할 수 있습니다.    
+관리자는 회원정보 관리 및 게시판 관리, 과목 및 문제 추가 수정등을 할 수 있습니다.
 
 - Web Project Development Environment    
 ![Image](/image/WebProject Development Environment.png)
 
 ### Android Project(Android Native Application)
 Android Project(Famous Food Stores from Lee Young Ja`s Choice)
+
+- The reason why I created this project    
+방송에서 개그우먼 이영자씨의 맛집 추천이 자주 나오고 있는데 이러한 맛집들을 정리하여 알려주는 애플리케이션이 필요하다고 생각하여 만들어 보았습니다.
 
 - Android Project DevelopMent Environment    
 ![Image](/image/AndroidProject Development Environment.png)

@@ -1,6 +1,6 @@
-## LeeHoJun`s MyPage
+## LeeHoJun`s Portfolio Page
 
-LeeHojun`s Development Project Page입니다.
+LeeHojun`s Project Portfolio Page입니다.
 
 ### ALL Project Common Development Environment
 ![Image](/image/ServerAndDb Development environment.png)

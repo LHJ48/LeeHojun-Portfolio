@@ -44,8 +44,7 @@ Ios Project(Covid 19 Public Mask)
 <img src="./image/IosProject/IosProject(WatchYoutubePage).png" width="50%" height="50%">
 
 - Ios Project Running Video    
-<a href="https://drive.google.com/open?id=1mJeopBKvb8hjLbhPa_UnmwcdCFyGvIwh">Watch Running Video</a>
-<iframe width="100%" height="100%" src="https://drive.google.com/file/d/1mJeopBKvb8hjLbhPa_UnmwcdCFyGvIwh/view?usp=sharing" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+<a href="https://drive.google.com/file/d/1mJeopBKvb8hjLbhPa_UnmwcdCFyGvIwh/view?usp=sharing">Watch Running Video</a>
 
 
 ### Final Project(Web + Android + Ios)

@@ -38,16 +38,18 @@ Ios Project(Covid 19 Public Mask)
 ![Image](/image/iosPorject Development environment.png)
 
 - Ios Project Running Process     
-![Image](/image/IosProject/IosProject(LoginPage).png)    
-![Image](/image/IosProject/IosProject(UserUpdatePage).png)    
-![Image](/image/IosProject/IosProject(MainPage).png)    
-![Image](/image/IosProject/IosProject(SearchAddressPage).png)     
-![Image](/image/IosProject/IosProject(SearchCurrentLocationPage).png)    
-![Image](/image/IosProject/IosProject(SearchRouteAppleMapPage).png)    
-![Image](/image/IosProject/IosProject(WatchYoutubePage).png)    
+<center><img src="/image/IosProject/IosProject(LoginPage)" width="300" height="300"></center>
 
-- Ios Project Running Video
-![Link]("https://drive.google.com/open?id=1mJeopBKvb8hjLbhPa_UnmwcdCFyGvIwh")
+<center><img src="/image/IosProject/IosProject(LoginPage)" width="300" height="300"></center>
+<center><img src="/image/IosProject/IosProject(UserUpdatePage).png" width="300" height="300"></center>
+<center><img src="/image/IosProject/IosProject(MainPage).png" width="300" height="300"></center>
+<center><img src="/image/IosProject/IosProject(SearchAddressPage).png" width="300" height="300"></center>
+<center><img src="/image/IosProject/IosProject(SearchCurrentLocationPage).png" width="300" height="300"></center>
+<center><img src="/image/IosProject/IosProject(SearchRouteAppleMapPage).png" width="300" height="300"></center>
+<center><img src="/image/IosProject/IosProject(WatchYoutubePage).png" width="300" height="300"></center> 
+
+- Ios Project Running Video    
+<a href="https://drive.google.com/open?id=1mJeopBKvb8hjLbhPa_UnmwcdCFyGvIwh">Watch Running Video</a>
 
 ### Final Project(Web + Android + Ios)
 파이널 프로젝트

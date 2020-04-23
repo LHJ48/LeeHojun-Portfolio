@@ -38,20 +38,7 @@ Ios Project(Covid 19 Public Mask)
 ![Image](/image/iosPorject Development environment.png)
 
 - Ios Project Running Process     
-![Image](/image/IosProject/IosProject(LoginPage).png)
-
-![Image](/image/IosProject/IosProject(UserUpdatePage).png)
-
-![Image](/image/IosProject/IosProject(MainPage).png)
-
-![Image](/image/IosProject/IosProject(SearchAddressPage).png)
-
-![Image](/image/IosProject/IosProject(SearchCurrentLocationPage).png)
-
-![Image](/image/IosProject/IosProject(SearchRouteAppleMapPage).png)
-
-![Image](/image/IosProject/IosProject(WatchYoutubePage).png)
-
+![Image](/image/IosProject(LoginPage).png)
 
 ### Final Project(Web + Android + Ios)
 파이널 프로젝트

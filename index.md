@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## LeeHoJun`s MyPage
 
-You can use the [editor on GitHub](https://github.com/LeeHoJun4880/leehojun/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+이호준의 MyPage입니다.
+개인프로젝트 목록을 확인할 수 있습니다.
 
 ### Markdown
 

@@ -9,7 +9,12 @@ LeeHojun`s Development Project Page입니다.
 ### Web Project(Spring Mvc Project)
 Web Project(ExamBank)
 
-- Web Project Development EnvironMent    
+- The reason why I created this project    
+사용자들이 각종 시험들의 회차별 기출문제를 구입하여 직접 풀어보고 채점기능을 활용할 수 있고    
+오답 및 해설 확인, QnA게시판을 활용한 질문/답변의 활용을 할 수 있다.    
+관리자는 회원정보 관리 및 게시판 관리, 과목 및 문제 추가 수정등 을 할 수 있다.
+
+- Web Project Development Environment    
 ![Image](/image/WebProject Development Environment.png)
 
 ### Android Project(Android Native Application)

@@ -10,7 +10,7 @@
 안드로이드 프로젝트
 
 ### Ios Project(Ios Native Application)
-Ios 프로젝트
+Ios Project(Covid 19 Public Mask)
 
 ### Final Project(Web + Android + Ios)
 파이널 프로젝트

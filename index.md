@@ -51,12 +51,12 @@ Ios Project(Covid 19 Public Mask)
 Final Project(Covid19)
 
 - The reason why I created this project    
-코로나의 감염이 전 세계적으로 여러 곳에서 동시 다발적으로 확산되고,
-사태의 장기화 가능성이 커지면서 코로나 관련 앱이 제공하는 정보와 기능도 다양화되어야 합니다.
-기존 코로나 관련 앱을 비교하였을때 공적마스크 재고 확인만 가능한 앱만 다수 있으며, 정보공유가 부족함.
+코로나의 감염이 전 세계적으로 여러 곳에서 동시 다발적으로 확산되고,    
+사태의 장기화 가능성이 커지면서 코로나 관련 앱이 제공하는 정보와 기능도 다양화되어야 합니다.    
+기존 코로나 관련 앱을 비교하였을때 공적마스크 재고 확인만 가능한 앱만 다수 있으며, 정보공유가 부족합니다.    
 따라서 기존 공적마스크 재고 확인 기능 및 코로나 관련 정보(오픈채팅, QnA 챗봇, 코로나 확진자 현황)등 전문성 있는 앱이 필요하여 개발하게 되었습니다.
 
 - Final Project Development Environment    
 <img src="./image/WebProject Development Environment.png" width="50%" height="50%">
-<img src="./image/AndroidProject Development Environment.png" width="30%" height="30%">
+<img src="./image/AndroidProject Development Environment.png" width="30%" height="20%">
 <img src="./image/iosPorject Development environment.png" width="100%" height="50%">

@@ -59,7 +59,7 @@ Final Project(Covid19)
 
 - Final Project Development Environment    
 <img src="./image/WebProject Development Environment.png" width="50%" height="50%">
-<img src="./image/AndroidProject Development Environment.png" width="10%" height="10%"><br>
+<img src="./image/AndroidProject Development Environment.png" width="20%" height="20%"><br>
 <img src="./image/iosPorject Development environment.png" width="100%" height="50%">
 
 - Final Project Running Video    

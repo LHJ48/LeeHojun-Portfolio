@@ -58,7 +58,7 @@ Final Project(Covid19)
 따라서 기존 공적마스크 재고 확인 기능 및 코로나 관련 정보(오픈채팅, QnA 챗봇, 코로나 확진자 현황)등 전문성 있는 앱이 필요하여 개발하게 되었습니다.
 
 - Final Project Development Environment    
-<img src="./image/WebProject Development Environment.png" width="50%" height="30%">
+<img src="./image/WebProject Development Environment.png" width="50%" height="50%">
 <img src="./image/AndroidProject Development Environment.png" width="30%" height="20%"><br>
 <img src="./image/iosPorject Development environment.png" width="100%" height="50%">
 

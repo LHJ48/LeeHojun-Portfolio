@@ -46,9 +46,7 @@ Ios Project(Covid 19 Public Mask)
 - Ios Project Running Video    
 <a href="https://drive.google.com/file/d/1mJeopBKvb8hjLbhPa_UnmwcdCFyGvIwh/view?usp=sharing">Watch Running Video</a>
 
-
-###<a href="https://drive.google.com/file/d/1mJeopBKvb8hjLbhPa_UnmwcdCFyGvIwh/view?usp=sharing">Watch Running Video</a>
- Final Project(Web + Android + Ios)
+### Final Project(Web + Android + Ios)
 Final Project(Covid19)
 
 - The reason why I created this project    

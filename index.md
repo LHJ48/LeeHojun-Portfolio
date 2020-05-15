@@ -27,9 +27,12 @@ Android Project(Famous Food Stores from Lee Young Ja`s Choice)
 ![Image](/image/AndroidProject Development Environment.png)
 
 - Android Project Running Process    
-<img src="./image/AndroidProject/Android Project Image1.png" width="50%" height="50%">
-<h2>스플래시 화면</h2><br>
-로고 이미지 
+<table>
+  <tr>
+    <td><img src="./image/AndroidProject/Android Project Image1.png" width="50%" height="50%"></td>
+    <td><h2>스플래시 </h2></td>
+  </tr>
+</table> 
 
 ### Ios Project(Ios Native Application)
 Ios Project(Covid 19 Public Mask)

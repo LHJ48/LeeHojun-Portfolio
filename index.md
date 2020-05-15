@@ -27,9 +27,9 @@ Android Project(Famous Food Stores from Lee Young Ja`s Choice)
 ![Image](/image/AndroidProject Development Environment.png)
 
 - Android Project Running Process    
-<img src="./image/AndroidProject/Android Project Image1.png" width="50%" height="50%"><img src="./image/AndroidProject/Android Project image2.png" width="50%" height="50%">
-<img src="./image/AndroidProject/Android Project image3.png" width="50%" height="50%"><img src="./image/AndroidProject/Android Project image4.png" width="50%" height="50%">
-<img src="./image/AndroidProject/Android Project image5.png" width="50%" height="50%"><img src="./image/AndroidProject/Android Project image6.png" width="50%" height="50%">
+<img src="./image/AndroidProject/Android Project Image1.png" width="50%" height="50%">
+<h2>스플래시 화면</h2><br>
+로고 이미지 
 
 ### Ios Project(Ios Native Application)
 Ios Project(Covid 19 Public Mask)
@@ -43,9 +43,10 @@ Ios Project(Covid 19 Public Mask)
 ![Image](/image/iosPorject Development environment.png)
 
 - Ios Project Running Process     
-<img src="./image/IosProject/IosProject(LoginPage).png" width="50%" height="50%">
-<h2>스플래시 화면</h2><br><br>
-로고 이미지 
+<img src="./image/IosProject/IosProject(LoginPage).png" width="50%" height="50%"><img src="./image/IosProject/IosProject(UserUpdatePage).png" width="50%" height="50%">
+<img src="./image/IosProject/IosProject(MainPage).png" width="50%" height="50%"><img src="./image/IosProject/IosProject(SearchRouteAppleMapPage).png" width="50%" height="50%">
+<img src="./image/IosProject/IosProject(SearchAddressPage).png" width="50%" height="50%"><img src="./image/IosProject/IosProject(SearchCurrentLocationPage).png" width="50%" height="50%">
+<img src="./image/IosProject/IosProject(WatchYoutubePage).png" width="50%" height="50%">
 
 - Ios Project Running Video    
 <a href="https://drive.google.com/file/d/1mJeopBKvb8hjLbhPa_UnmwcdCFyGvIwh/view?usp=sharing">Watch Running Video</a>

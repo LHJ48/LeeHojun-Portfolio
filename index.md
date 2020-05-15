@@ -43,10 +43,9 @@ Ios Project(Covid 19 Public Mask)
 ![Image](/image/iosPorject Development environment.png)
 
 - Ios Project Running Process     
-<img src="./image/IosProject/IosProject(LoginPage).png" width="50%" height="50%"><img src="./image/IosProject/IosProject(UserUpdatePage).png" width="50%" height="50%">
-<img src="./image/IosProject/IosProject(MainPage).png" width="50%" height="50%"><img src="./image/IosProject/IosProject(SearchRouteAppleMapPage).png" width="50%" height="50%">
-<img src="./image/IosProject/IosProject(SearchAddressPage).png" width="50%" height="50%"><img src="./image/IosProject/IosProject(SearchCurrentLocationPage).png" width="50%" height="50%">
-<img src="./image/IosProject/IosProject(WatchYoutubePage).png" width="50%" height="50%">
+<img src="./image/IosProject/IosProject(LoginPage).png" width="50%" height="50%">
+<h2>스플래시 화면</h2><br><br>
+로고 이미지 
 
 - Ios Project Running Video    
 <a href="https://drive.google.com/file/d/1mJeopBKvb8hjLbhPa_UnmwcdCFyGvIwh/view?usp=sharing">Watch Running Video</a>

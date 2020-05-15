@@ -26,6 +26,9 @@ Android Project(Famous Food Stores from Lee Young Ja`s Choice)
 - Android Project DevelopMent Environment    
 ![Image](/image/AndroidProject Development Environment.png)
 
+- Android Project Running Process    
+
+
 ### Ios Project(Ios Native Application)
 Ios Project(Covid 19 Public Mask)
 

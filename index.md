@@ -18,12 +18,9 @@ Web Project(ExamBank)
 ![Image](/image/WebProject Development Environment.png)
 
 - Web Project Running Process<br>
-<img src="./image/WebProject/Web Project1.png" width="50%" height="50%" background-color="#000000">
-<img src="./image/WebProject/Web Project2.png" width="50%" height="50%" background-color="#000000">
-<img src="./image/WebProject/Web Project3.png" width="50%" height="50%" background-color="#000000">
-<img src="./image/WebProject/Web Project4.png" width="50%" height="50%" background-color="#000000">
-<img src="./image/WebProject/Web Project5.png" width="50%" height="50%" background-color="#000000">
-<img src="./image/WebProject/Web Project6.png" width="50%" height="50%" background-color="#000000">
+<img src="./image/WebProject/Web Project1.png" width="50%" height="50%" background-color="#000000"><img src="./image/WebProject/Web Project2.png" width="50%" height="50%" background-color="#000000">
+<img src="./image/WebProject/Web Project3.png" width="50%" height="50%" background-color="#000000"><img src="./image/WebProject/Web Project4.png" width="50%" height="50%" background-color="#000000">
+<img src="./image/WebProject/Web Project5.png" width="50%" height="50%" background-color="#000000"><img src="./image/WebProject/Web Project6.png" width="50%" height="50%" background-color="#000000">
 
 ### Android Project(Android Native Application)
 Android Project(Famous Food Stores from Lee Young Ja`s Choice)
@@ -38,6 +35,7 @@ Android Project(Famous Food Stores from Lee Young Ja`s Choice)
 <img src="./image/AndroidProject/Android Project1.png" width="100%" height="100%" background-color="#000000">
 <img src="./image/AndroidProject/Android Project2.png" width="100%" height="100%" background-color="#000000">
 <img src="./image/AndroidProject/Android Project3.png" width="100%" height="100%" background-color="#000000">
+
 ### Ios Project(Ios Native Application)
 Ios Project(Covid 19 Public Mask)
 

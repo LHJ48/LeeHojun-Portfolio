@@ -18,7 +18,12 @@ Web Project(ExamBank)
 ![Image](/image/WebProject Development Environment.png)
 
 - Web Project Running Process
-
+<img src="./image/Wep Project/Web Project1.png" width="50%" height="50%" background-color="#000000">
+<img src="./image/Wep Project/Web Project2.png" width="50%" height="50%" background-color="#000000">
+<img src="./image/Wep Project/Web Project3.png" width="50%" height="50%" background-color="#000000">
+<img src="./image/Wep Project/Web Project4.png" width="50%" height="50%" background-color="#000000">
+<img src="./image/Wep Project/Web Project5.png" width="50%" height="50%" background-color="#000000">
+<img src="./image/Wep Project/Web Project6.png" width="50%" height="50%" background-color="#000000">
 
 ### Android Project(Android Native Application)
 Android Project(Famous Food Stores from Lee Young Ja`s Choice)

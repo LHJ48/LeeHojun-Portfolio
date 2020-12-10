@@ -73,4 +73,4 @@ Final Project(Covid19)
 - Final Project Running Process & Video    
 <a href="https://drive.google.com/open?id=1WLrp7p_M_miftCXBl3dQeASRd3-7yRXa">Watch Running Video(Web)</a><br>
 <a href="https://drive.google.com/open?id=14qlGK0ooWAeg_A4y5xCzdCESXd6siXaV">Watch Running Video(Android)</a><br>
-<a href="https://drive.google.com/open?id=1Eh_gw-cLD_acwRiy7SkrWB69HspKBFCp">Watch Running Video(Ios)</a>
+<a href="https://drive.google.com/open?id=1Eh_gw-cLD_acwRiy7SkrWB69HspKBFCp">Watch Running Video(iOS)</a>

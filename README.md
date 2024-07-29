@@ -15,7 +15,7 @@ Web Project(ExamBank)
 관리자는 회원정보 관리 및 게시판 관리, 과목 및 문제 추가 수정등을 할 수 있습니다.
 
 - Web Project Development Environment    
-<img src="./image/WebProject Development Environment.png" width="50%" height="50%" background-color="#000000">
+<img src="./image/WebProject Development Environment.png" width="50%" height="50%" background-color:white>
 
 - Web Project Running Process<br>
 <img src="./image/WebProject/Web Project1.png" width="50%" height="50%" background-color="#000000"><img src="./image/WebProject/Web Project2.png" width="50%" height="50%" background-color="#000000">

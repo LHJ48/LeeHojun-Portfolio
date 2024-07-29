@@ -15,7 +15,7 @@ Web Project(ExamBank)
 관리자는 회원정보 관리 및 게시판 관리, 과목 및 문제 추가 수정등을 할 수 있습니다.
 
 - Web Project Development Environment    
-![Image](/image/WebProject Development Environment.png)
+<img src="./image/WebProject Development Environment.png" width="100%" height="100%" background-color="#000000">
 
 - Web Project Running Process<br>
 <img src="./image/WebProject/Web Project1.png" width="50%" height="50%" background-color="#000000"><img src="./image/WebProject/Web Project2.png" width="50%" height="50%" background-color="#000000">
@@ -29,7 +29,7 @@ Android Project(Famous Food Stores from Lee Young Ja`s Choice)
 방송에서 개그우먼 이영자씨의 맛집 추천이 자주 나오고 있는데 이러한 맛집들을 정리하여 알려주는 애플리케이션이 필요하다고 생각하여 만들어 보았습니다.
 
 - Android Project DevelopMent Environment    
-![Image](/image/AndroidProject Development Environment.png)
+<img src="./image/AndroidProject Development Environment.png" width="100%" height="100%" background-color="#000000">
 
 - Android Project Running Process    
 <img src="./image/AndroidProject/Android Project1.png" width="100%" height="100%" background-color="#000000">
@@ -45,7 +45,7 @@ iOS Project(Covid 19 Public Mask)
 저희 앱은 마스크 판매처 정보와 물량 그리고 현재 사용자 위치에서 판매처까지의 길을 찾아주어 사용자가 편리하게 공적마스크 정보를 얻을 수 있게 하였습니다.   
 
 - iOS Project Development Environment    
-![Image](/image/iosPorject Development environment.png)
+<img src="./image/iosPorject Development environment.png" width="100%" height="100%" background-color="#000000">
 
 - iOS Project Running Process     
 <img src="./image/IosProject/IosProject(LoginPage).png" width="50%" height="50%"><img src="./image/IosProject/IosProject(UserUpdatePage).png" width="50%" height="50%">

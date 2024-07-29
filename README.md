@@ -29,7 +29,7 @@ Android Project(Famous Food Stores from Lee Young Ja`s Choice)
 방송에서 개그우먼 이영자씨의 맛집 추천이 자주 나오고 있는데 이러한 맛집들을 정리하여 알려주는 애플리케이션이 필요하다고 생각하여 만들어 보았습니다.
 
 - Android Project DevelopMent Environment    
-<img src="./image/AndroidProject Development Environment.png" width="50%" height="50%" background-color="#000000">
+<img src="./image/AndroidProject Development Environment.png" width="30%" height="30%" background-color="#000000">
 
 - Android Project Running Process    
 <img src="./image/AndroidProject/Android Project1.png" width="100%" height="100%" background-color="#000000">

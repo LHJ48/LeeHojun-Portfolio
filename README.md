@@ -3,7 +3,7 @@
 LeeHojun`s Project Portfolio Page입니다.
 
 ### ALL Project Common Development Environment
-<img src="./image/ServerAndDb Development environment.png" width="50%" height="50%" background-color="#000000">
+<img src="./image/ServerAndDb Development environment.png" width="50%" height="50%" background-color:white>
 
 
 ### Web Project(Spring Mvc Project)

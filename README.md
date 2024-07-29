@@ -3,7 +3,7 @@
 LeeHojun`s Project Portfolio Page입니다.
 
 ### ALL Project Common Development Environment
-![Image](/image//ServerAndDb Development environment.png)
+![Image](/image/ServerAndDb Development environment.png)
 
 
 ### Web Project(Spring Mvc Project)

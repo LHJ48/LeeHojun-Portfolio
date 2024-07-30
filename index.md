@@ -2,13 +2,6 @@
 
 LeeHojun`s Project Portfolio Page입니다.
 
-### iOS Personal Project
-## 우리지역 기프티콘
-기획취지 : 프랜차이즈가 아닌 지역맛집의 기프티콘 상품 판매 및 사용   
-주요사용 기술 : 소셜로그인, QR코드 인식, Realm DB, KAKAO MAP API   
-
-
-
 ### ALL TEAM Project Common Development Environment
 ![Image](/image/ServerAndDb Development environment.png)
 
